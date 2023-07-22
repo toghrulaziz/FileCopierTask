@@ -1,0 +1,9 @@
+﻿<Application x:Class="AppDomain_Thread.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AppDomain_Thread"
+             >
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
